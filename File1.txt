@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 apple
 mango
 banana
 orange
+=======
+safdfsg
+sdg
+sg
+sdg
+sd
+gsd
+gs
+>>>>>>> 82b5ac4a1471c6584aa0e8374cd77d03c3a87c81
